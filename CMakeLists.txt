@@ -5,9 +5,6 @@ set(CMAKE_CXX_STANDARD 17)
 
 add_executable(learn_sfml
         main.cpp
-        T01_FrameRateMgmt.cpp
-        T01_FrameRateMgmt.hpp
-        T01_FrameRateMgmt.hpp
 )
 
 ############# SFML #############

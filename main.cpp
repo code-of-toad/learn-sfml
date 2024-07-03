@@ -1,7 +1,7 @@
 #include <iostream>
-#include "T01_FrameRateMgmt.hpp"
+
+using std::cout, std::endl, std::string;
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
     return 0;
 }
